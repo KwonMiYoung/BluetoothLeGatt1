@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/miyoungkwon/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/miyoungkwon/.android/build-cache/936d19b164f7a9601c4f3ebc69d1d856d72ad6ba/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/miyoungkwon/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/miyoungkwon/.android/build-cache/936d19b164f7a9601c4f3ebc69d1d856d72ad6ba/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/miyoungkwon/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/miyoungkwon/.android/build-cache/936d19b164f7a9601c4f3ebc69d1d856d72ad6ba/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/miyoungkwon/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/miyoungkwon/.android/build-cache/936d19b164f7a9601c4f3ebc69d1d856d72ad6ba/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

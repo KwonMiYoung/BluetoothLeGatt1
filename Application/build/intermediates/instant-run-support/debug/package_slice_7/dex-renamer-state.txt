@@ -1,0 +1,4 @@
+#Wed Aug 16 00:21:25 KST 2017
+base.0=/Users/miyoungkwon/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7
+renamed.0=classes.dex
+file.0=/Users/miyoungkwon/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex
